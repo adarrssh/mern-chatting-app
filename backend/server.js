@@ -1,5 +1,5 @@
 const express = require('express')
-const dotenv = requier('dotenv')
+const dotenv = require('dotenv')
 const app = express();
 
 dotenv.config()
